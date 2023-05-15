@@ -1,4 +1,4 @@
-FROM quay.vapo.va.gov/vaaacelrodt/sonar-scanner-cli:latest
+FROM quay.vapo.va.gov/vapo_tst_images/sonar-scanner-cli:4.7
 
 # Must be root user during container build
 USER root
